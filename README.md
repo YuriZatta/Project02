@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Banking With Python
 
-![gif](https://media.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.gif)
+![gif](https://media2.giphy.com/media/y3B74VeWI2QQE/giphy.gif)
 
 | Language | Type          | Date  | Due | Author               |
 | -------- | ------------- | ----- | ---- | -------------------- |
@@ -139,4 +139,4 @@ This Python project creates and interacts with .csv files to handle bank account
         * `get_hist = property(__print_hist)`
 ## I did it!
 
-![gif](https://media2.giphy.com/media/y3B74VeWI2QQE/giphy.gif)
+![gif](https://media.giphy.com/media/mg2Xa0af44fFm/giphy.gif)
